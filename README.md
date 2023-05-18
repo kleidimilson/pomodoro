@@ -1,5 +1,5 @@
-## A
-cativo de Pomodoro
+## Pomodoro
+
 
 O aplicativo de Pomodoro é uma ferramenta simples e eficaz para ajudar na gestão do tempo e aumentar a produtividade. Baseado na técnica Pomodoro, o aplicativo permite que você divida o seu tempo em períodos de trabalho e descanso, ajudando a manter o foco e evitar a exaustão.
 
